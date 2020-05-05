@@ -1,6 +1,7 @@
 ---
 title: Open Source
 layout: page
+permalink: /open-source/
 ---
 
 ## libvoorhees
