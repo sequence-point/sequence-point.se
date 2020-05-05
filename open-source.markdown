@@ -4,12 +4,12 @@ layout: page
 permalink: /open-source/
 ---
 
-## libvoorhees
+## libjson
 
-libvoorhees is an easy to use, and dependency free, JSON parser and serializer
-for any standards compliant C++17 compiler.
+libjson is an easy to use, and dependency free, JSON parser and serializer for
+any standards compliant C++17 compiler.
 
-The source code for libvoorhees can be found on [GitHub](//github.com/sequence-point/libvoorhees).
+The source code for libjson can be found on [GitHub](//github.com/sequence-point/libjson).
 
 ## libunicode
 
