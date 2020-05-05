@@ -2,7 +2,7 @@ title: Sequence Point AB
 email: hello@sequence-point.se
 description: >- # this means to ignore newlines until "baseurl:"
   Sequence Point AB provides software development services and develops the
-  proprietary warehouse management system Woodland WMS.
+  proprietary warehouse management system Woodland WMS. Holds F-tax certificate.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sequence-point.se/" # the base hostname & protocol for your site, e.g. http://example.com
 
