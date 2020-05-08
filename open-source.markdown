@@ -29,6 +29,13 @@ encode and decode UTF-8, UTF-16 and UTF-32.
 The source code for libunicode can be found on
 [GitHub](//github.com/sequence-point/libunicode).
 
+## liburi
+
+liburi is a URI parser for C++.
+
+The source code for liburi can be found on
+[GitHub](https://github.com/sequence-point/liburi).
+
 ## libunittest
 
 libunittest is a lightweight unit-testing library for C++.
