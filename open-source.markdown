@@ -28,3 +28,10 @@ encode and decode UTF-8, UTF-16 and UTF-32.
 
 The source code for libunicode can be found on
 [GitHub](//github.com/sequence-point/libunicode).
+
+## libunittest
+
+libunittest is a lightweight unit-testing library for C++.
+
+The source code for libunittest can be found on
+[GitHub](https://github.com/sequence-point/libunittest).
